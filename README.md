@@ -1,5 +1,5 @@
 # Blockchain
-A basic blockchain structure which can be initiated by running the blockchain.py file.<br><br>
+A basic blockchain structure which can be initiated by running the blockchain.py file.<br><br> 
 
 Required: Flask, Postman and python 3.6<br><br>
 
