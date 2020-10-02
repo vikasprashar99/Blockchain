@@ -10,4 +10,4 @@ There are three basic methods:
 3. is_valid (To check if the mined blockchain is valid or not) <br><br>
 
 example. http://127.0.0.1:5000/get_chain<br>
-(no arguments necessary)
+(no arguments necessary)  
